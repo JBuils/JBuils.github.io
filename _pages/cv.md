@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Chemistry, Universitat Rovira i Virgili (URV), 2024
+* M.S. in Chemical Science and Technology, Universitat de les Illes Balears (UIB), 2021
+* B.S. Chemistry, Universitat de les Illes Balears (UIB), 2020
 
 Work experience
 ======
