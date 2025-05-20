@@ -17,29 +17,32 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* From December 2024: Postodoctoral researcher 
+  * Institute of Chemical Research of Catalonia (ICIQ)
+  * Supervisor: Prof. Carles Bo
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Density Functional Theory (DFT) codes:
+  * ADF (Amsterdam Density Functional)
+  * AMS (Amsterdam Modeling Suite)
+  * Gaussian
+* Programming languages
+  * Python
+    * Python libraries: Scipy, Numpy, Pandas, Scikit-Learn, Pytorch
+  * Bash
+* Open Data
+  * Git (GitLab and GitHub)
+  * ioChem-BD
+* Languages
+  * English: high level in reading, writing and speaking
+  * Catalan: high level in reading, writing and speaking (native)
+  * Spanish: high level in reading, writing and speaking (native)
+
+Download
+======
+
+You can download the CV through this [link](https://jbuils.github.io/files/CV2025.pdf)
 
 Publications
 ======
@@ -53,12 +56,3 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
