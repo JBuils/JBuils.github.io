@@ -8,7 +8,7 @@ permalink: /publication/inorgchem_2025_v_capping_keggin
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-04-30
 venue: 'Inorganic Chemistry'
-paperurl: 'http://academicpages.github.io/files/inorgchem_2025_v_capping_keggin.pdf'
+paperurl: 'http://jbuils.github.io/files/inorgchem_2025_v_capping_keggin.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Not yet'
 ---
