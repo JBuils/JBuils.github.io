@@ -1,5 +1,5 @@
 ---
-title: "Synthesis, X-ray characterization, and DFT calculations of gold-nucleobase complexes: On the importance of regium bond and anion-π interactions"
+title: "Uncovering polyoxometalate speciation in hydrothermal systems by combining computational simulation with X-ray total scattering"
 collection: publications
 category: manuscripts
 permalink: /publication/JACS_2025_hydrothermal        
