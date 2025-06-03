@@ -26,8 +26,8 @@ main:
   - title: "CV"
     url: /cv/
 
-#  - title: "Open Source Projects"
-#    url: /opensource_projects/
+  - title: "Open Source Projects"
+    url: /opensource_projects/
 
   # - title: "CV"
   #   url: /cv-json/

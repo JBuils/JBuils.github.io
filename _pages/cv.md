@@ -17,9 +17,18 @@ Education
 
 Work experience
 ======
-* From December 2024: Postodoctoral researcher 
-  * Institute of Chemical Research of Catalonia (ICIQ)
+* Postodoctoral researcher 
+  * From Dec 2024 - currently
+  * Institute of Chemical Research of Catalonia (ICIQ), Tarragona, Spain
   * Supervisor: Prof. Carles Bo
+
+International Research Stays
+======
+
+* Hylleraas Centre for Quantum Molecular Sciences
+  * Feb 2024 - May 2024
+  * University of Oslo, Norway
+  * Supervisor: Prof. David Balcells
 
 Skills
 ======
@@ -29,8 +38,11 @@ Skills
   * Gaussian
 * Programming languages
   * Python
-    * Python libraries: Scipy, Numpy, Pandas, Scikit-Learn, Pytorch
+    * Python libraries: Scipy, Numpy, Pandas, Scikit-Learn, Pytorch, Optuna
   * Bash
+* HPC queue manager
+  * SGE
+  * SLURM
 * Open Data
   * Git (GitLab and GitHub)
   * ioChem-BD
@@ -39,10 +51,9 @@ Skills
   * Catalan: high level in reading, writing and speaking (native)
   * Spanish: high level in reading, writing and speaking (native)
 
-Download
-======
+[//]: # (Teaching and mentoring)
 
-You can download the CV through this [link](https://jbuils.github.io/files/CV2025.pdf)
+[//]: # (=====)
 
 Publications
 ======
@@ -55,4 +66,15 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
+Open Source Projects
+======
+
+  <ul>{% for post in site.opensource_projects reversed %}
+    {% include archive-single-project-cv.html  %}
+  {% endfor %}</ul>
+
+Download
+======
+
+You can download the CV through this [link](https://jbuils.github.io/files/CV2025.pdf)
