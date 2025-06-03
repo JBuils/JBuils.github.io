@@ -71,7 +71,7 @@ Open Source Projects
 ======
 
   <ul>{% for post in site.opensource_projects reversed %}
-    {% include archive-single-project-cv.html  %}
+    {% include archive-single-project-cv.html %}
   {% endfor %}</ul>
 
 Download
