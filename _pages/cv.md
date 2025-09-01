@@ -21,6 +21,9 @@ Work experience
   * From Dec 2024 - currently
   * Institute of Chemical Research of Catalonia (ICIQ), Tarragona, Spain
   * Supervisor: Prof. Carles Bo
+* Substitute Professor
+  * From Sep 2025 - currently
+  * Universitat Autònoma de Barcelona (UAB)
 
 International Research Stays
 ======

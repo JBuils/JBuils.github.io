@@ -3,9 +3,9 @@ title: "On the use of the POMSimulator to understand the formation mechanism of 
 collection: talks
 type: "Poster"
 permalink: /talks/POM_summer_school
-venue: "La Rochelle"
+venue: "Residence Club La Fayette"
 date: 2022-06-12
-location: "France"
+location: "La Rochelle, France"
 ---
 
 Summer School in Polyoxometalates Chemistry for Fundamentals and Applications

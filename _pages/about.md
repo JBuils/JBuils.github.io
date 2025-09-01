@@ -51,7 +51,7 @@ contributed to advancing computational methods in **inorganic chemistry**.
 
 Throughout my academic journey, I have presented my research in
 numerous **national and international conferences**, including **EuChemS,
-ESPA or ICCC**. I have also contributed to competitive national research
+ESPA, ICCC or WATOC**. I have also contributed to competitive national research
 projects, such as those funded by the Spanish Ministry of Science and the
 Severo Ochoa Excellence Program. Furthermore, I have supervised and
 mentored early-career researchers, including PhD students conducting

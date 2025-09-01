@@ -1,5 +1,5 @@
 ---
-title: "Data-Driven Methods for Solving Multi-Species Multi-Equilibria Self-Assembly of Metal-Oxide Nanoclusters (Soon)"
+title: "Data-Driven Methods for Solving Multi-Species Multi-Equilibria Self-Assembly of Metal-Oxide Nanoclusters"
 collection: talks
 type: "Oral communication"
 permalink: /talks/WATOC_2025

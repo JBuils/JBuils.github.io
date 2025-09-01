@@ -1,5 +1,5 @@
 ---
-title: "Data-driven strategies for the study of the aqueous speciation of polyoxometalates using POMSimulator (Soon)"
+title: "Data-driven strategies for the study of the aqueous speciation of polyoxometalates using POMSimulator"
 collection: talks
 type: "Poster communication"
 permalink: /talks/FMOCS_VIII_2025
