@@ -5,7 +5,7 @@ collection: opensource_projects
 category: database
 permalink: /opensource_projects/poms-gibbsnet-db
 date: 2025-08-01
-projecturl: 'io-chemBD'
+projecturl: 'https://iochem-bd.iciq.es/browse/handle/100/114609'
 layout: single
 author_profile: true
 
@@ -15,7 +15,7 @@ author_profile: true
 
 #### Project directory
 
-[ioChem-BD]('')
+<https://iochem-bd.iciq.es/browse/handle/100/114609>
 
 ### Project description
 

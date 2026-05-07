@@ -14,7 +14,7 @@ author_profile: true
 
 #### Project directory
 
-[GitHub]('https://github.com/petrusen/pomsimulator/releases/tag/v2.0.0')
+<https://github.com/petrusen/pomsimulator/releases/tag/v2.0.0>
 
 ### Project description
 

@@ -5,7 +5,7 @@ collection: opensource_projects
 category: software
 permalink: /opensource_projects/poms-gibbsnet
 date: 2025-08-01
-projecturl: 'https://gitlab.com/jbuils/poms-gibbsnet'
+projecturl: 'https://gitlab.com/JBuils/poms-gibbsnet'
 layout: single
 author_profile: true
 
@@ -15,7 +15,7 @@ author_profile: true
 
 #### Project directory
 
-[GitLab]('https://gitlab.com/jbuils/poms-gibbsnet')
+<https://gitlab.com/jbuils/poms-gibbsnet>
 
 ### Project description
 

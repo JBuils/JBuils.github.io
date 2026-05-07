@@ -5,6 +5,11 @@ var addressPoints = [
     1.2546057
   ],
   [
+    "Computational tools for polyoxometalates modelling: POMSimulator (SOON)<br />University of Versailles Saint-Quentin-en-Yvelines; Versailles, France",
+    48.7856667,
+    2.0513306
+  ],
+  [
     "Predicci\u00f3 de l\u2019especiaci\u00f3 aquosa de heteropolioxometalats: el fosfomolibdat i l\u2019arsenomolibdat.<br />Rectorar - Universitat Rovira i Virgili; Tarragona, Spain",
     41.1172364,
     1.2546057
